@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeff-diers
-- I am a Software Engineer for Kin + Carta
+- 💼 I am a Software Engineer for Kin + Carta
 - 📫 How to reach me: jeffry.diers@kinandcarta.com
 
 <!---
